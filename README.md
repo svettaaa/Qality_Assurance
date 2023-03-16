@@ -1,2 +1,2 @@
-# Qality_Assurance
-Qality_Assurance
+# Quality_Assurance
+Quality_Assurance
