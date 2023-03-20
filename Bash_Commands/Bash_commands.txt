@@ -1,0 +1,35 @@
+a) cd ; cd c/Users/svetl/final_project_qa/QA_skills
+Домашняя директория... путь... папка QA_skills
+
+b) mkdir Path_QA 
+Создание папки Path_QA 
+
+c)cd Path_QA
+Переход в папку Path_QA
+
+d)touch impression.txt
+создание файла impression.txt
+
+e) ls ; vim impression.txt ; i
+просмотр содержимого; открытие редактора vim; внесение изменений
+
+f) 'Esc' ; :wq
+режим команд в vim; выход с сохранением данных
+
+g)cat impression.txt | grep NordicIT
+просмотр содержимого файла и поиск по слову NordicIT
+
+h) cat impression.txt | grep NordicIT >> Result
+просмотр, поиск строки по слову, перенаправление вывода+создание нового файла Result
+
+i) ls
+просмотр содержимого
+
+j)ls -a
+просмотр скрытого содержимого
+
+k)pwd
+путь
+
+l) cp ./Result /c/Users/svetl/final_project_qa/QA_skills
+копирование папки Result из Path_QA в QA_skills
